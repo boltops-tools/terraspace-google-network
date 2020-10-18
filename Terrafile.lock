@@ -1,0 +1,7 @@
+---
+network:
+  source: terraform-google-modules/network/google
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-google-modules/terraform-google-network
+  sha: 37611359da12ac54d0dfcefb1b88ebf79cf3bcc5
